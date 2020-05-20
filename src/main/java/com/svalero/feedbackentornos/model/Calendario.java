@@ -32,6 +32,8 @@ public class Calendario {
 		this.fechapartido = fechapartido;
 	}
 	
+	public void añadirPartido(Partido partido, String resultado, String hora, String lugar, String equipo1, String equipo2) {
+		
+	}
 	
-
 }
